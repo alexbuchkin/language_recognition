@@ -1,4 +1,4 @@
-bottle==0.12.18
+bottle==0.12.19
 joblib==0.14.1
 numpy==1.17.4
 scikit-learn==0.22
